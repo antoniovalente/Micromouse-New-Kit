@@ -1,4 +1,4 @@
-MicromouseKit
+Micromouse New Kit
 =============
 
-Firmware for Arduino based Micromouse Kit
+
