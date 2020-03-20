@@ -1,4 +1,0 @@
-Micromouse New Kit
-=============
-
-
