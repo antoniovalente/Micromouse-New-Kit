@@ -3,7 +3,7 @@ MikroPontiki - |version|
 ********************
 
 
-.. index:: abstract
+.. _index:: abstract
 
 What is MikroPontiki?
 -----------------
