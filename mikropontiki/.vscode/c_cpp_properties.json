@@ -1,0 +1,91 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "c:/HP_Valente/work/git/Micromouse/Micromouse-New-Kit/mikropontiki/include",
+                "c:/HP_Valente/work/git/Micromouse/Micromouse-New-Kit/mikropontiki/src",
+                "C:/Users/avalente/.platformio/lib/Adafruit NeoPixel_ID28",
+                "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/cores/arduino",
+                "C:/Users/avalente/.platformio/packages/framework-cmsis/CMSIS/Include",
+                "C:/Users/avalente/.platformio/packages/framework-cmsis-atmel/CMSIS/Device/ATMEL",
+                "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/cores/arduino/TinyUSB",
+                "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/cores/arduino/TinyUSB/Adafruit_TinyUSB_ArduinoCore",
+                "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/cores/arduino/TinyUSB/Adafruit_TinyUSB_ArduinoCore/tinyusb/src",
+                "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/variants/feather_m0_express",
+                "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/libraries/Adafruit_ZeroDMA",
+                "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/libraries/Adafruit_ZeroDMA/utility",
+                "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/libraries/CI_Tests",
+                "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/libraries/HID",
+                "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/libraries/I2S/src",
+                "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/libraries/SAMD_AnalogCorrection/src",
+                "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/libraries/SDU/src",
+                "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/libraries/SPI",
+                "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/libraries/Servo/src",
+                "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/libraries/USBHost/src",
+                "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/libraries/Wire",
+                "C:/Users/avalente/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/HP_Valente/work/git/Micromouse/Micromouse-New-Kit/mikropontiki/include",
+                    "c:/HP_Valente/work/git/Micromouse/Micromouse-New-Kit/mikropontiki/src",
+                    "C:/Users/avalente/.platformio/lib/Adafruit NeoPixel_ID28",
+                    "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/cores/arduino",
+                    "C:/Users/avalente/.platformio/packages/framework-cmsis/CMSIS/Include",
+                    "C:/Users/avalente/.platformio/packages/framework-cmsis-atmel/CMSIS/Device/ATMEL",
+                    "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/cores/arduino/TinyUSB",
+                    "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/cores/arduino/TinyUSB/Adafruit_TinyUSB_ArduinoCore",
+                    "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/cores/arduino/TinyUSB/Adafruit_TinyUSB_ArduinoCore/tinyusb/src",
+                    "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/variants/feather_m0_express",
+                    "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/libraries/Adafruit_ZeroDMA",
+                    "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/libraries/Adafruit_ZeroDMA/utility",
+                    "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/libraries/CI_Tests",
+                    "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/libraries/HID",
+                    "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/libraries/I2S/src",
+                    "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/libraries/SAMD_AnalogCorrection/src",
+                    "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/libraries/SDU/src",
+                    "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/libraries/SPI",
+                    "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/libraries/Servo/src",
+                    "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/libraries/USBHost/src",
+                    "C:/Users/avalente/.platformio/packages/framework-arduino-samd-adafruit/libraries/Wire",
+                    "C:/Users/avalente/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=40301",
+                "ARDUINO_ARCH_SAMD",
+                "ARDUINO_SAMD_ZERO",
+                "ARDUINO_SAMD_FEATHER_M0",
+                "ARDUINO_SAMD_FEATHER_M0_EXPRESS",
+                "ARM_MATH_CM0PLUS",
+                "__SAMD21G18A__",
+                "F_CPU=48000000L",
+                "USBCON",
+                "ARDUINO=10805",
+                "USB_VID=0x239A",
+                "USB_PID=0x801B",
+                "USB_PRODUCT=\"Feather M0 Express\"",
+                "USB_MANUFACTURER=\"Adafruit\"",
+                "USB_CONFIG_POWER=100",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/avalente/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc.exe",
+            "compilerArgs": [
+                "-mthumb",
+                "-mcpu=cortex-m0plus",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
