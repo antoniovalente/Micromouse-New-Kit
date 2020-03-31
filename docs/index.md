@@ -8,6 +8,8 @@ MikroPontiki - |version|
 What is MikroPontiki?
 ----------------------
 
+MikroPontiki is a Micromouse Robot Kit developed by Antonio Valente.
+
 .. raw:: html
 
     <img src="https://svg.wavedrom.com/
