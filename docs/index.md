@@ -9,7 +9,7 @@ What is MikroPontiki?
 ----------------------
 
 
-.. wavedrom::
+<img src="https://svg.wavedrom.com/
 { signal: [
   { name: "pclk", wave: 'p.......' },
   { name: "Pclk", wave: 'P.......' },
@@ -21,7 +21,7 @@ What is MikroPontiki?
   { name: 'clk2', wave: 'hpHplnLn' },
   { name: 'clk3', wave: 'nhNhplPl' },
   { name: 'clk4', wave: 'xlh.L.Hx' },
-]}
+]}"/>
 
 
 
